@@ -92,7 +92,7 @@ else:
     print("FAISS index already exists. Skipping PDF processing.")  # Debug statement
 
 # Streamlit UI
-st.set_page_config(page_icon="📜", page_title="Company Chatbot")
+st.set_page_config(page_icon="❓", page_title="WILYA BOT")
 st.header("Ask Questions About the Company")
 st.title("Ask Your Questions")
 

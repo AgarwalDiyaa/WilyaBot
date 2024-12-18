@@ -93,7 +93,7 @@ else:
 
 # Streamlit UI
 st.set_page_config(page_icon="❓", page_title="WILYA BOT")
-st.header("Ask Questions About the Company")
+st.header("The Wilya Bot")
 st.title("Ask Your Questions")
 
 user_question = st.text_input("Enter a company-related question:")
